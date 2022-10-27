@@ -62,7 +62,7 @@ facebook:
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 LinkedIn:
-  username               : "www.linkedin.com/in/vsevolod-ostapenko-03577571" 
+  username               : "vsevolod-ostapenko-03577571" 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
