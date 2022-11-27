@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vsevolod Ostapenko"
   avatar           : "profile.png"
-  bio              : "Assistant Professor (Teaching) at the Durham University Business School" # "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor (Teaching) at Durham University Business School" # "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=mCjN2jAAAAAJ&hl=ru&oi=ao"
